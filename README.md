@@ -1,7 +1,21 @@
 # Egypt-Agricultural-Analysis
 An interactive Power BI dashboard analyzing Egypt's agricultural indicators using FAO data.
-# 🇪🇬 Egypt Agricultural Indicators Analysis Dashboard (2000-2024)
+# Egypt Agricultural Indicators Analysis Dashboard (2000-2024)
+> **Interactive Dashboard Preview:**
+> Here are the key screens from the Egypt Agricultural Indicators analysis.
 
+![Main Overview](dash.view.jpeg)
+
+#### Detailed Insights (Page 1 - 4):
+| | |
+|---|---|
+| ![Dash 1](dash.1.jpeg) | ![Dash 2](dash.2.jpeg) |
+| ![Dash 3](dash.3.jpeg) | ![Dash 4](dash.4.jpeg) |
+
+#### Environmental & Additional Analysis:
+![Dash 5](dash.5.jpeg)
+![Dash 6](dash.6.jpeg)
+![Dash 7](dash.7.jpeg)
 ### 📊 Project Overview
 This project delivers a comprehensive, data-driven analysis of Egypt's agricultural sector. Using **FAO datasets**, we monitored production trends, resource efficiency, and environmental impacts to provide actionable insights for sustainable development.
 
@@ -30,7 +44,7 @@ This project delivers a comprehensive, data-driven analysis of Egypt's agricultu
 
 ### 👥 Project Team (Contributors)
 This project was a collaborative effort by our dedicated team of Data Analysts:
-* **Asmaa Abdel Rahman**
+* **Asmaa Abdelrahman**
 * **Eman Salah**
 * **Marwa Ali**
 * **Shahd Mohamed**
